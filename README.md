@@ -3,14 +3,18 @@
 <!--
 **sydney-papier-19/sydney-papier-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on software development fundamentals!
+- 🌱 I’m currently learning software development at CodeSpace Academy in Cape Town, South Africa.
+- 🤔 I’m looking for help with getting more friends in the software industry to share, collab, help and learn from each other.
+- Software Development is innovating and I'm excited to see the creativity that flows from it🤯🎨
+- 📫 How to reach me:
+      - email: sydneypapier23@gmail.com
+      - cell: 068 402 9877
+- ⚡ Fun fact:
+  - I'm fresh out of high school and straight in a deep pool of software development but my swimming is getting better everyday.
+  - Software Develpoment is exciting 😆!!
+  - I enjoy working with others and engaging in team activities.
+  - I'm a Jesus girl. 
+
