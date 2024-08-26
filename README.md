@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on building a Black Jack game!
-- 🌱 I’m currently learning software development fundamentals at CodeSpace Academy in Cape Town, South Africa.
+- 🔭 I’m currently learning JavaScript Language!
+- 🌱 I’m currently learning software development at CodeSpace Academy in Cape Town, South Africa.
 - 🤔 I’m looking for help with getting more friends in the software industry to share, collab, help and learn from each other.
 - Software Development is innovating and I'm excited to see the creativity that flows from it🤯🎨
 - 📫 How to reach me:
