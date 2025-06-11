@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently learning JavaScript and C#!
-- 🌱 I’m currently self studying software development.
+- 🌱 I’m currently studying software development at the University of the Western Cape (UWC) in Cape Town, SA.
 - 🤔 I’m looking for help with getting more friends in the software industry to share, collab, help and learn from each other.
 - Software Development is innovating and I'm excited to see the creativity that flows from it🤯🎨
 - 📫 How to reach me:
