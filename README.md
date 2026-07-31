@@ -15,9 +15,9 @@ client service, and staying focused under pressure. I want to keep growing as a 
 technology with real social impact.
 
 Featured Projects
-- DiaConnect — [Demo video](link) · [Code](link)
+- DiaConnect —  [Code](https://github.com/HaanimP/DiaConnectFinal.git)
 C#, ASP.NET Core, SQLite, Azure — full-stack mobile app helping diabetic patients and caretakers scan ingredient lists for hidden sugars. Built with my UWC Samsung Future Innovation Lab team.
-- Kanban Task Manager — [Live demo](link) · [Code](Link)
+- Kanban Task Manager — [Live demo](https://www.loom.com/share/4a8bd0d819804c71bfd28ec0d448e51a?sid=c7b5430e-7fa4-41ef-8ee1-f22507dd0643) · [Code]([Link](https://github.com/sydney-papier-19/JSL_Portfolio_Piece_CS20240197_WFR2407_GroupA_Sydney-Papier_JSL11-main.git))
 JavaScript, HTML, CSS — Agile task board where I added functionality, debugging, and styling to make the board fully functional and user friendly.
 
 📫 How to reach me:
