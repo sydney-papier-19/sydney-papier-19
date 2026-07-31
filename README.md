@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! My name is Sydney Papier 👋
 
 <!--
 **sydney-papier-19/sydney-papier-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,15 @@ presentations. Nearly four years as a general worker at OurWorld Enterprises tau
 client service, and staying focused under pressure. I want to keep growing as a developer building
 technology with real social impact.
 
+Featured Projects
+- DiaConnect — [Demo video](link) · [Code](link)
+C#, ASP.NET Core, SQLite, Azure — full-stack mobile app helping diabetic patients and caretakers scan ingredient lists for hidden sugars. Built with my UWC Samsung Future Innovation Lab team.
+- Kanban Task Manager — Live demo[link] · Code[Link]
+JavaScript, HTML, CSS — Agile task board where I added functionality, debugging, and styling to make the board fully functional and user friendly.
+
 - 📫 How to reach me:
-      - email: sydneypapier23@gmail.com
-      - cell: 068 402 9877
+  - email: sydneypapier23@gmail.com
+  - cell: 068 402 9877
   
 - ⚡ Fun facts:
   - - Software Development is innovative and I get excited seeing the creativity that flows from it🤯🎨
